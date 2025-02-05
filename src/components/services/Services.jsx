@@ -4,6 +4,7 @@ import ReactModelContainer from "./react/ReactModelContainer";
 import "./services.css";
 import Counter from "./Counter";
 import { motion, useInView } from "motion/react";
+import ComputerModelContainer from "./computer/ComputerModelContainer";
 
 const textVariants = {
   initial: {
@@ -104,7 +105,7 @@ const Services = () => {
         ) : currentServiceId === 2 ? (
           <ReactModelContainer />
         ) : (
-          <MacbookModelContainer />
+          <ComputerModelContainer />
         )}
       </div>
     </div>

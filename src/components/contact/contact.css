@@ -1,3 +1,7 @@
+.contactContainer {
+  height: 100%;
+}
+
 .contact {
   height: 100%;
   display: flex;
@@ -15,7 +19,7 @@
 
 .cSection:last-child {
   background-color: rgba(2, 2, 45, 0.187);
-  margin: 50px 0px;
+  /* margin: 50px 0px; */
   padding: 50px;
   border-radius: 50% 0px;
 }
