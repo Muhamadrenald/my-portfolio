@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 public
+.env
+.gitignore
+Contact copy.jsx
