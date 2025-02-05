@@ -4,7 +4,7 @@ This is my personal web portfolio.
 
 ## Screenshots
 
-![App Screenshot](./public/bg-renald.jpeg)
+![App Screenshot](./img/bg-renald.jpeg)
 
 ## 🚀 About Me
 
